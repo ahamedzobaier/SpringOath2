@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "Spring.security.oauth2.client.registration.google.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.security.oauth2.client.registration.google.client-id'"
+  },
+  {
+    "name": "Spring.security.oauth2.client.registration.google.client-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.security.oauth2.client.registration.google.client-secret'"
+  }
+]}
